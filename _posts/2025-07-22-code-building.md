@@ -42,8 +42,8 @@ We also use **f-string formatting** to print variables inside a string.
 
 ### 03. Testing my own code
 
-~~c
+~~~c
 printf("Hello world!");
-~~
+~~~
 
 ---
