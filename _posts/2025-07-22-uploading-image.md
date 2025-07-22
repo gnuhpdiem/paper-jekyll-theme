@@ -18,7 +18,7 @@ Let's work !
 
 This is how to upload the image from the internet!
 
-![test_kitten](/assets/images/test_kitten.jpeg)
+![test_cat](/assets/images/cat_image.webp)
 
 This is how to upload from your assets
 
